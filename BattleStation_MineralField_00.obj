@@ -1,6 +1,5 @@
 # Blender 3.5.1
 # www.blender.org
-mtllib BattleStation_MineralField_00.mtl
 o Cylinder001
 v 28.148354 1.390692 9.249751
 v 28.288143 5.273830 -0.000003
